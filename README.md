@@ -21,7 +21,7 @@
 
 
 ### DEMO
-![Product Gif](https://ui-flutter-git.s3-sa-east-1.amazonaws.com/app-vuejs-electron-marvel/vue-marvel-gif.gif)
+![Product Gif](https://ui-flutter-git.s3-sa-east-1.amazonaws.com/app-vuejs-electron-marvel/app-gif-marvel.gif)
 
 ### PRINTS SCREEN
   
