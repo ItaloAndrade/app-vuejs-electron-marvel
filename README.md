@@ -14,9 +14,9 @@
 </p>
 
 # app-vuejs-electron-marvel 
-<p align="center"> <a href="https://angular.io" target="_blank"> </p>
-
-
+<p align="center"> 
+ <a href="https://vuetifyjs.com/en/" target="_blank"> <img src="https://bestofjs.org/logos/vuetify.svg" alt="vuetify" width="40" height="40"/> </a>
+ </p>
 
 ### Link
 <a href="https://ui-flutter-git.s3-sa-east-1.amazonaws.com/app-vuejs-electron-marvel/app-vuejs-electron-marvel+Setup+0.1.0.exe">Download</a>
