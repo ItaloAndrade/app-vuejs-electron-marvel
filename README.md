@@ -15,7 +15,8 @@
 
 # app-vuejs-electron-marvel 
 <p align="center"> 
- <a href="https://vuetifyjs.com/en/" target="_blank"> <img src="https://bestofjs.org/logos/vuetify.svg" alt="vuetify" width="40" height="40"/> </a>
+ <a href="https://vuetifyjs.com/en/" target="_blank"> <img src="https://ui-flutter-git.s3-sa-east-1.amazonaws.com/app-vuejs-electron-marvel/vuetify.svg" alt="vuetify" width="40" height="40"/> </a>
+ <a href="https://vue.com" target="_blank"> <img src="https://ui-flutter-git.s3-sa-east-1.amazonaws.com/app-vuejs-electron-marvel/vuejs-original-wordmark.svg" alt="vuetify" width="40" height="40"/> </a>
  </p>
 
 ### Link
